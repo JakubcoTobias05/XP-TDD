@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\XPTDD_Testy\Knihovnicka\bin\Debug\Knihovnicka.dll
+C:\Users\PC\Desktop\XPTDD_Testy\Knihovnicka\bin\Debug\Knihovnicka.pdb
+C:\Users\PC\Desktop\XPTDD_Testy\Knihovnicka\obj\Debug\Knihovnicka.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\XPTDD_Testy\Knihovnicka\obj\Debug\Knihovnicka.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\XPTDD_Testy\Knihovnicka\obj\Debug\Knihovnicka.dll
+C:\Users\PC\Desktop\XPTDD_Testy\Knihovnicka\obj\Debug\Knihovnicka.pdb
