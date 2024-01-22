@@ -1,0 +1,22 @@
+C:\Users\PC\Desktop\XP TDD\XP TDD\obj\Debug\XP TDD.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\XP TDD\XP TDD\obj\Debug\XP TDD.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\XP TDD\XP TDD\obj\Debug\XP_TDD.Form1.resources
+C:\Users\PC\Desktop\XP TDD\XP TDD\obj\Debug\XP_TDD.Properties.Resources.resources
+C:\Users\PC\Desktop\XP TDD\XP TDD\obj\Debug\XP TDD.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\XP TDD\XP TDD\obj\Debug\XP TDD.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\XP TDD\XP TDD\bin\Debug\XP TDD.exe.config
+C:\Users\PC\Desktop\XP TDD\XP TDD\bin\Debug\XP TDD.exe
+C:\Users\PC\Desktop\XP TDD\XP TDD\bin\Debug\XP TDD.pdb
+C:\Users\PC\Desktop\XP TDD\XP TDD\bin\Debug\Knihovna.dll
+C:\Users\PC\Desktop\XP TDD\XP TDD\bin\Debug\Knihovna.pdb
+C:\Users\PC\Desktop\XP TDD\XP TDD\obj\Debug\XP TDD.csproj.CopyComplete
+C:\Users\PC\Desktop\XP TDD\XP TDD\obj\Debug\XP TDD.exe
+C:\Users\PC\Desktop\XP TDD\XP TDD\obj\Debug\XP TDD.pdb
+G:\GitHub\XP-TDD\XP TDD\XP TDD\obj\Debug\XP TDD.csproj.AssemblyReference.cache
+G:\GitHub\XP-TDD\XP TDD\XP TDD\obj\Debug\XP TDD.csproj.SuggestedBindingRedirects.cache
+G:\GitHub\XP-TDD\XP TDD\XP TDD\obj\Debug\XP_TDD.Form1.resources
+G:\GitHub\XP-TDD\XP TDD\XP TDD\obj\Debug\XP_TDD.Properties.Resources.resources
+G:\GitHub\XP-TDD\XP TDD\XP TDD\obj\Debug\XP TDD.csproj.GenerateResource.cache
+G:\GitHub\XP-TDD\XP TDD\XP TDD\obj\Debug\XP TDD.csproj.CoreCompileInputs.cache
+G:\GitHub\XP-TDD\XP TDD\XP TDD\obj\Debug\XP TDD.exe
+G:\GitHub\XP-TDD\XP TDD\XP TDD\obj\Debug\XP TDD.pdb

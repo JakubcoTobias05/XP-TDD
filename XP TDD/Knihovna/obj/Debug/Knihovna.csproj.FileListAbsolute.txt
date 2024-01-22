@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\XP TDD\Knihovna\bin\Debug\Knihovna.dll
+C:\Users\PC\Desktop\XP TDD\Knihovna\bin\Debug\Knihovna.pdb
+C:\Users\PC\Desktop\XP TDD\Knihovna\obj\Debug\Knihovna.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\XP TDD\Knihovna\obj\Debug\Knihovna.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\XP TDD\Knihovna\obj\Debug\Knihovna.dll
+C:\Users\PC\Desktop\XP TDD\Knihovna\obj\Debug\Knihovna.pdb
