@@ -78,7 +78,7 @@ namespace Knihovna
 
         public override string ToString()
         {
-            return "Jméno: " + Jmeno + ", Level: " + LVL + ", Pozice: " + PoziceX + ", " + PoziceY;
+            return "Hráč: " + "\nJméno: " + jmeno + "\nLevel: " + LVL + "\nPozice: " + PoziceX + ", " + PoziceY;
         }
     }
 
@@ -89,6 +89,7 @@ namespace Knihovna
         public Vlasy vlasy;
         public BarvaVlasu barvaVlasu;
         public int XP { get; private set; }
+        private int celkemXP;
 
         public Hrac(string jmeno, Specializace specializace, Oblicej oblicej, Vlasy vlasy, BarvaVlasu barvaVlasu): base(jmeno)
         {
@@ -97,11 +98,13 @@ namespace Knihovna
             this.vlasy = vlasy;
             this.barvaVlasu = barvaVlasu;
             XP = 0;
+            celkemXP = 0;
         }
 
         public void PridejXP(int hodnota)
         {
             XP += hodnota;
+            celkemXP += hodnota;
             while (XP >= 100 * LVL)
             {
                 XP -= 100 * LVL;
@@ -111,7 +114,7 @@ namespace Knihovna
 
         public override string ToString()
         {
-            return base.ToString() + "Specializace: " + Specializace + "XP: " + XP;
+            return base.ToString() + "\nSpecializace: " + Specializace + "\nXP: " + celkemXP;
         }
     }
 
@@ -119,21 +122,18 @@ namespace Knihovna
     {
         public Prace Prace { get; private set; }
         public bool JeBoss { get; private set; }
+        public string NpcJmeno { get; set; }
 
         public NPC(string jmeno, Prace prace, bool jeBoss = false) : base(jmeno)
         {
             Prace = prace;
             JeBoss = jeBoss;
-        } 
-
-        /*public override void ZmenaPozice(int novaX, int novaY)
-        {
-            
-        }*/
+            NpcJmeno = jmeno;
+        }
 
         public override string ToString()
         {
-            return "Práce: " + Prace + "JeBoss: " + JeBoss;
+            return "\nNPC: " + "\nJméno: " + NpcJmeno + "\nPráce: " + Prace + "\nJeBoss: " + JeBoss;
         }
     }
 }

@@ -20,3 +20,9 @@ G:\GitHub\XP-TDD\XP TDD\XP TDD\obj\Debug\XP TDD.csproj.GenerateResource.cache
 G:\GitHub\XP-TDD\XP TDD\XP TDD\obj\Debug\XP TDD.csproj.CoreCompileInputs.cache
 G:\GitHub\XP-TDD\XP TDD\XP TDD\obj\Debug\XP TDD.exe
 G:\GitHub\XP-TDD\XP TDD\XP TDD\obj\Debug\XP TDD.pdb
+G:\GitHub\XP-TDD\XP TDD\XP TDD\bin\Debug\XP TDD.exe.config
+G:\GitHub\XP-TDD\XP TDD\XP TDD\bin\Debug\XP TDD.exe
+G:\GitHub\XP-TDD\XP TDD\XP TDD\bin\Debug\XP TDD.pdb
+G:\GitHub\XP-TDD\XP TDD\XP TDD\bin\Debug\Knihovna.dll
+G:\GitHub\XP-TDD\XP TDD\XP TDD\bin\Debug\Knihovna.pdb
+G:\GitHub\XP-TDD\XP TDD\XP TDD\obj\Debug\XP TDD.csproj.CopyComplete

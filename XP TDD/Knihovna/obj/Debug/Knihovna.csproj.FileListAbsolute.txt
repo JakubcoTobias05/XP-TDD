@@ -4,3 +4,9 @@ C:\Users\PC\Desktop\XP TDD\Knihovna\obj\Debug\Knihovna.csproj.AssemblyReference.
 C:\Users\PC\Desktop\XP TDD\Knihovna\obj\Debug\Knihovna.csproj.CoreCompileInputs.cache
 C:\Users\PC\Desktop\XP TDD\Knihovna\obj\Debug\Knihovna.dll
 C:\Users\PC\Desktop\XP TDD\Knihovna\obj\Debug\Knihovna.pdb
+G:\GitHub\XP-TDD\XP TDD\Knihovna\bin\Debug\Knihovna.dll
+G:\GitHub\XP-TDD\XP TDD\Knihovna\bin\Debug\Knihovna.pdb
+G:\GitHub\XP-TDD\XP TDD\Knihovna\obj\Debug\Knihovna.csproj.AssemblyReference.cache
+G:\GitHub\XP-TDD\XP TDD\Knihovna\obj\Debug\Knihovna.csproj.CoreCompileInputs.cache
+G:\GitHub\XP-TDD\XP TDD\Knihovna\obj\Debug\Knihovna.dll
+G:\GitHub\XP-TDD\XP TDD\Knihovna\obj\Debug\Knihovna.pdb
